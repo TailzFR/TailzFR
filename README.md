@@ -10,6 +10,11 @@
 
 <p>I write code in a few different languages and like building tools: Discord bots, VR add-ons and Minecraft mods. Right now I am working on <a href="https://github.com/TailzFR/spine-client">Spine Client</a>, a client-side utility mod with a schematic auto-builder and a petal-style menu.</p>
 
+<p>
+  <a href="https://spinedevelopment.com/"><img src="https://img.shields.io/badge/Website-spinedevelopment.com-2b2b2b?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://discord.gg/spinedev"><img src="https://img.shields.io/badge/Discord-discord.gg%2Fspinedev-2b2b2b?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
 <h3>When I code, I rely on</h3>
 
 <p>
