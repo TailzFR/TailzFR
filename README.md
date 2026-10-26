@@ -6,7 +6,7 @@
 
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=TailzFR&label=Profile%20views&color=2b2b2b&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=TailzFR&label=Profile%20views&color=7a0c0c&style=flat" alt="Profile views">
 
 <p>I write code in a few different languages and like building tools: Discord bots, VR add-ons and Minecraft mods. Right now I am working on <a href="https://github.com/TailzFR/spine-client">Spine Client</a>, a client-side utility mod with a schematic auto-builder and a petal-style menu.</p>
 
@@ -54,10 +54,10 @@
 <h3>My GitHub contributions summary</h3>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=TailzFR&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=D0D0D0&sideNums=FFFFFF&sideLabels=BDBDBD&dates=8A8A8A&border_radius=10" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=TailzFR&theme=dark&hide_border=true&background=0D0D0D&ring=B01414&fire=B01414&currStreakNum=FFFFFF&currStreakLabel=B01414&sideNums=FFFFFF&sideLabels=BDBDBD&dates=8A8A8A&border_radius=10" alt="Contribution streak">
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TailzFR&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=BDBDBD&text_color=D0D0D0&border_radius=10" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailzFR&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=D0D0D0&border_radius=10" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TailzFR&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B01414&icon_color=B01414&text_color=D0D0D0&ring_color=B01414&border_radius=10" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailzFR&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B01414&text_color=D0D0D0&border_radius=10" alt="Top languages">
 </p>
