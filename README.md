@@ -20,8 +20,20 @@
 <p>
   <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-2b2b2b?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C%23-2b2b2b?style=flat&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Lua-2b2b2b?style=flat&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Go-2b2b2b?style=flat&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-2b2b2b?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/HTML-2b2b2b?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-2b2b2b?style=flat&logo=css&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/PowerShell-2b2b2b?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Batch-2b2b2b?style=flat&logo=windowsterminal&logoColor=white" alt="Batch">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Gradle-2b2b2b?style=flat&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/Fabric-2b2b2b?style=flat&logoColor=white" alt="Fabric">
   <img src="https://img.shields.io/badge/discord.py-2b2b2b?style=flat&logo=discord&logoColor=white" alt="discord.py">
