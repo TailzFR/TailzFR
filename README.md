@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=TailzFR&label=Profile%20views&color=1d3f9e&style=flat" alt="Profile views">
 
-<p>I write code in a few different languages and like building tools: Discord bots, VR add-ons and Minecraft mods. Right now I am working on <a href="https://github.com/TailzFR/spine-client">Spine Client</a>, a client-side utility mod with a schematic auto-builder and a petal-style menu.</p>
+<p>I write code in a few different languages and like building tools: Discord bots, VR add-ons and Minecraft mods. Right now I am working on <a href="https://spinedevelopment.com/">Spine Client</a>, a client-side utility mod with a schematic auto-builder and a petal-style menu.</p>
 
 <p>
   <a href="https://spinedevelopment.com/"><img src="https://img.shields.io/badge/Website-spinedevelopment.com-2b2b2b?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -46,7 +46,7 @@
 <h3>What I've built</h3>
 
 <ul>
-  <li><a href="https://github.com/TailzFR/spine-client">Spine Client</a>: a Fabric 1.21.11 utility client with a schematic auto-builder, HUD modules and a custom menu.</li>
+  <li><a href="https://spinedevelopment.com/">Spine Client</a>: a Fabric 1.21.11 utility client with a schematic auto-builder, HUD modules and a custom menu.</li>
   <li><a href="https://github.com/TailzFR/all-in-1-moderation-bot">all-in-1-moderation-bot</a>: a Discord ticket, appeal and moderation bot built on discord.py Components V2.</li>
   <li><a href="https://github.com/TailzFR/tailz-music-driver">tailz-music-driver</a>: a SteamVR add-on that controls Spotify, YouTube, SoundCloud and more from your left VR controller.</li>
 </ul>
